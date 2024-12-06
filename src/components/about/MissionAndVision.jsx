@@ -2,7 +2,7 @@ import React from "react";
 
 const MissionAndVision = () => {
   return (
-    <section className='relative py-12 md:py-16 lg:py-24 w-full h-auto bg-gradient-to-r from-indigo-100 via-purple-50 to-pink-100'>
+    <section className='relative py-12 md:py-16 lg:py-24 w-full h-screen bg-gradient-to-r from-indigo-100 via-purple-50 to-pink-100'>
       <div className='container mx-auto px-4 md:px-6 lg:px-20 flex flex-col lg:flex-row items-center'>
         {/* Left Section - Text */}
         <div className='lg:w-1/2 mb-10 lg:mb-0'>

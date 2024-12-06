@@ -31,7 +31,7 @@ const OurStorySection = () => {
               alt='Team'
               className='w-full h-auto rounded-lg shadow-lg'
             />
-            <div className='absolute -top-12 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-6xl'>
+            <div className='w-max absolute -top-12 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-4xl'>
               Our Story
             </div>
           </div>
@@ -39,7 +39,6 @@ const OurStorySection = () => {
 
         {/* Right Section - Content */}
         <div className='lg:w-1/2 px-4 lg:px-8'>
-          <h3 className='text-4xl font-bold text-gray-900 mb-6'>Our Story</h3>
           <p className='text-gray-700 leading-loose'>
             Founded in April 2023, Daltin aims to transform education by
             blending global best practices with cutting-edge technology.

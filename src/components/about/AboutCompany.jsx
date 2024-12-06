@@ -25,7 +25,7 @@ const AboutCompany = () => {
         </div>
 
         {/* Images Section */}
-        <div className='lg:w-1/2 ml-20 relative'>
+        <div className='lg:w-1/2 ml-20 relative md:w-1/2'>
           <div className='relative w-full left-0 h-auto'>
             {/* Background (Graduation) Image */}
             <img

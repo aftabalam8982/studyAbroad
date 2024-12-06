@@ -16,7 +16,7 @@ const OurStorySection = () => {
               alt='Team'
               className='w-full h-auto rounded-lg shadow-lg'
             />
-            <div className='absolute -bottom-6 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-6xl'>
+            <div className='absolute -bottom-12 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-6xl'>
               2023
             </div>
           </div>
@@ -31,8 +31,8 @@ const OurStorySection = () => {
               alt='Team'
               className='w-full h-auto rounded-lg shadow-lg'
             />
-            <div className='absolute -top-6 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-6xl'>
-              2023
+            <div className='absolute -top-12 left-1/2 transform -translate-x-1/2 text-center text-black font-bold text-6xl'>
+              Our Story
             </div>
           </div>
         </div>
